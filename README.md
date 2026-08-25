@@ -1,5 +1,4 @@
 
-markdown
 # 📚 Enliterature (English Literature Reader)
 
 > 2023년도 2학기 영문학 수업 강독 자료를 웹 환경에서 편리하게 읽고 탐색하기 위해 제작한 웹 웹페이지 프로젝트입니다.
