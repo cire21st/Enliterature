@@ -1,6 +1,3 @@
-해당 저장소의 기본 설명과 구성 방식을 바탕으로 깔끔하게 작성한 `README.md` 마크다운 양식입니다. 필요에 따라 세부 실행 명령어나 추가 설명을 수정하여 프로젝트 루트 폴더의 `README.md`에 붙여넣으시면 됩니다.
-
----
 
 ```markdown
 # 📚 Enliterature (English Literature Reader)
